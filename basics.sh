@@ -6,11 +6,11 @@ age=$1
 
 echo "Please provide your name"
 
-read name
+read -r "$2"
 
 echo "Please provide your age in a number"
 
-read age
+read -r age
 
 if [ "$age" -le 18 ]; then
     echo "You're ${age} years old and do not qualify for this biograpy."
