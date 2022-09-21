@@ -6,3 +6,4 @@
 # Requirement 
 
 <p>All you need is your pc or phone and don't forget. You need brain too (::)</p>
+<h2>I almost forgot, if you want to run it on windows install git and run it using git terminal</h2>
