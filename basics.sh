@@ -23,3 +23,5 @@ qualify=[ 'cyber security' 'web developer' 'software engineer'
 
 read qualify
 
+echo $qualify
+
